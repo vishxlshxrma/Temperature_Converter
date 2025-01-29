@@ -15,7 +15,7 @@ A simple web-based Temperature Converter that allows users to convert temperatur
 ## Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/temperature-converter.git
+   git https://github.com/vishxlshxrma/Temperature_Converter.git
    ```
 2. Open the `index.html` file in your web browser.
 3. Enter a value in either the Celsius or Fahrenheit input field; the other field updates automatically.
